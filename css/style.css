@@ -34,7 +34,7 @@ body .container-wide{padding:0 30px}}
 
 			#page-title .page-title>span{font-weight:400;font-size:14px}
 			#page-title .breadcrumb{text-align:center;margin-bottom:0;padding:0}
-			#page-title.page-title-left .page-title{float:left;text-align:left;clear:both}
+			#page-title.page-title-left .page-title{float:left;text-align:left;clear:both} 
 			#page-title.page-title-left .breadcrumb{float:left;text-align:left;display:block}
 			#page-title.page-title-right .page-title{float:right;text-align:right;clear:both}
 			#page-title.page-title-right .breadcrumb{float:right;text-align:right}
